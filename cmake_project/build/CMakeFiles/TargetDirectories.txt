@@ -1,0 +1,5 @@
+/Users/lilf4p/Developer/spm/cmake_project/build/CMakeFiles/cmake_project.dir
+/Users/lilf4p/Developer/spm/cmake_project/build/CMakeFiles/package.dir
+/Users/lilf4p/Developer/spm/cmake_project/build/CMakeFiles/package_source.dir
+/Users/lilf4p/Developer/spm/cmake_project/build/CMakeFiles/edit_cache.dir
+/Users/lilf4p/Developer/spm/cmake_project/build/CMakeFiles/rebuild_cache.dir
